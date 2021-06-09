@@ -1,2 +1,4 @@
 # Database Schema for Cart to Order 
-with Payment request and refund
+**_with Payment and Refund request_**
+
+[![N|Solid](https://github.com/ilyaskazi/schema-cart-to-order/blob/main/schema.png)](https://github.com/ilyaskazi/schema-cart-to-order/blob/main/schema.png)
